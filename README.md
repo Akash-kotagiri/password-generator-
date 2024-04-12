@@ -4,4 +4,4 @@
 
 A random password generator usign HTML,css and javascript
 
-Live link: 
+Live link: https://akash-kotagiri.github.io/password-generator-/
